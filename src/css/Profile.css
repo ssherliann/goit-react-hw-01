@@ -1,0 +1,36 @@
+.container-profile {
+    border: 2px solid #000;
+    border-radius: 5px;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.profile-avatar {
+    margin-top: 20px;
+    width: 120px;
+}
+
+.profile-name {
+    margin: 0;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.profile-tag {
+    margin-top: 5px;
+    margin-bottom: 0;
+    color: #808080;
+}
+
+.profile-location {
+    margin: 0;
+    color: #808080;
+}
+
+.profile-stats {
+    padding: 0 15px;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
